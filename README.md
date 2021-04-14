@@ -1,4 +1,4 @@
 
 Projeto em construção 
 
-Retiradn do: https://github.com/JGhignatti/jv-weather
+Retirado do: https://github.com/JGhignatti/jv-weather
